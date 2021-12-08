@@ -1,1 +1,1 @@
-# esayapplylinkedin
+# easyapplylinkedin
