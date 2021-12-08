@@ -1,0 +1,7 @@
+{
+    "email" : "Your email",
+    "password" : "password",
+    "keywords" : "Backend Engineer,Machine Learning Engineer",
+    "location" : "Remote",
+    "driver_path" : "C:/path/geckodriver.exe"
+}
